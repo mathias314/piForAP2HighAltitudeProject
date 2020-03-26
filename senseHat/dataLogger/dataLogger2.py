@@ -8,7 +8,7 @@ from threading import Thread
 FILENAME = ""
 WRITE_FREQUENCY = 100
 TEMP_H=True
-TEMP_P=False
+TEMP_P=True
 HUMIDITY=True
 PRESSURE=True
 ORIENTATION=True
